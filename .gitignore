@@ -1,0 +1,9 @@
+# Compiled executable
+/scores
+
+# Object files
+*.o
+
+# Debugging files
+core
+core.*
