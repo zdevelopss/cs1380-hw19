@@ -1,0 +1,31 @@
+HW19 - Intramural Scores
+CS 1380
+
+Program Description:
+This program demonstrates one-dimensional and
+two-dimensional arrays in C.
+
+Functions Implemented:
+- print_scores: Displays a 1D array.
+- score_at: Returns an element with bounds checking.
+- sum_scores: Calculates the sum of scores.
+- max_score: Finds the highest score.
+- count_at_least: Counts scores meeting a threshold.
+- print_board: Displays a 2D scoreboard.
+- board_sum: Calculates the scoreboard total.
+
+Testing:
+The program compiled successfully using GCC
+with -Wall, -Wextra, and -Wpedantic.
+
+Expected Results:
+Sum of scores: 54
+Maximum score: 15
+Scores >= 10: 3
+Board sum: 129
+
+Debugging:
+Used GDB to inspect array elements and
+step through the sum_scores function.
+Verified that the running sum changed
+from 0 to 12 after the first addition.

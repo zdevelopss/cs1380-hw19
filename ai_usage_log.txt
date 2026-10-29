@@ -1,0 +1,33 @@
+CS 1380 - Homework 19
+AI Usage Log
+
+AI Tool Used:
+ChatGPT (OpenAI)
+
+Purpose:
+I used ChatGPT to assist with developing and debugging
+my Intramural Scores assignment in C.
+
+Assistance Received:
+- Helped create scores.h, scores.c, and main.c.
+- Explained one-dimensional and two-dimensional arrays.
+- Explained array indexing and bounds checking.
+- Provided examples of loops and nested loops.
+- Helped compile the program using GCC.
+- Guided installation and use of GDB.
+- Helped set breakpoints and inspect variables.
+- Explained how to step through sum_scores().
+- Assisted with assignment documentation.
+
+Testing and Verification:
+I compiled the program using GCC with warning flags.
+The program compiled without warnings or errors.
+
+I ran the program and verified its output.
+
+I used GDB to inspect array elements and observe
+the running sum change from 0 to 12.
+
+AI-generated code was tested in my Ubuntu environment.
+
+AI was used as a coding assistant and learning resource.
